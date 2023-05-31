@@ -1,0 +1,4 @@
+Number of even numbers: 6
+Number of odd numbers: 5
+
+[Program finished]
